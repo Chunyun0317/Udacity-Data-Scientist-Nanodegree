@@ -20,13 +20,14 @@ Based on economic data and bank account access data in the Global Findex Databas
         - [XGBoost](#3-xgboost-model)
         - [Comparison of Different Models](#4-comparison-of-different-models)
 ## Results and Conclusions
-Results and discussion were **published on Medium: What Key Factors Shape Bank Account Access?**
-**Key findings:**
-1. Economy has significant impact on account access. However, living in a rich country does not mean you'll automatically have a bank account. The account access is affected by multiple factors.
+- Results and discussion were **published on Medium: What Key Factors Shape Bank Account Access?**
+
+- **Key findings:**
+    1. Economy has significant impact on account access. However, living in a rich country does not mean you'll     automatically have a bank account. The account access is affected by multiple factors.
    
-2. The education gap and gender gap in bank account access can be narrowed by increasing income. In general, education level has a greater impact than gender on account access.
+    2. The education gap and gender gap in bank account access can be narrowed by increasing income. In general, education level has a greater impact than gender on account access.
    
-3. Logistic regression classification model can effectively predict the account access class based on income, education gap and gender gap. This can be helpful for policy decisions and interventions that can enhance access to banking services for all, particularly focusing on vulnerable groups such as low-income individuals and females in specific regions.
+    3. Logistic regression classification model can effectively predict the account access class based on income, education gap and gender gap. This can be helpful for policy decisions and interventions that can enhance access to banking services for all, particularly focusing on vulnerable groups such as low-income individuals and females in specific regions.
 
 ## Licensing, Authors, Acknowledgements
 - This is my first project for Udacity Data Scientist Nanodegree Program.

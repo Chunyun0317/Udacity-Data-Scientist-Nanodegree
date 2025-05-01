@@ -23,7 +23,7 @@ Based on economic data and bank account access data in the Global Findex Databas
 - Results and discussion were **published on Medium: What Key Factors Shape Bank Account Access?**
 
 - **Key findings:**
-    1. Economy has significant impact on account access. However, living in a rich country does not mean you'll     automatically have a bank account. The account access is affected by multiple factors.
+    1. Economy has significant impact on account access. However, living in a rich country does not mean you'll     automatically have a bank account. The bank account access is affected by multiple factors.
    
     2. The education gap and gender gap in bank account access can be narrowed by increasing income. In general, education level has a greater impact than gender on account access.
    

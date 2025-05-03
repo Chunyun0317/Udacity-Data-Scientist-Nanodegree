@@ -5,20 +5,24 @@ Based on economic data and bank account access data in the Global Findex Databas
 
 ## File Description
 - A Descriptive Jupyter Notebook.
-- A dataset: Detailed Listings data for bank account access analysis.
+- data.csv: Detailed Listings data for bank account access analysis.
+- requirements.txt : libraries installed to run this notebook.
 
 ## Project Content
-- [Questions and Goals](#questions-and-goals)
-- [Data Collection](#data-collection)
-- [Explorary Data Analysis (EDA)](#eda)
-- [Data Preprocessing](#data-preprocessing)
-- [Data Modeling and Model Evaluation](#data-modeling-and-model-evaluation)
+- [Business Understanding](#business-understanding)
+- [Data Understanding](#data-understanding)
+    - [Data collection & cleaning](#1-data-collection--cleaning)
+    - [Exploratory Data Analysis](#2-exploratory-data-analysis)
+- [Data Preparation](#Data-Preparation)
+    - [Encode categorical variables](#encode-categorical-variables)
+    - [Transform data](#Transform-data)
+- [Modeling](#Modeling)
     - [Linear Regression](#linear-regression)
-    - [Classification](#classification)
+    - [Classification Models](#classification-models)
         - [Logistic Regression](#1-logistic-regression)
         - [Random Forest](#2-random-forest)
         - [XGBoost](#3-xgboost-model)
-        - [Comparison of Different Models](#4-comparison-of-different-models)
+- [Evaluation](#evaluation)
 ## Results and Conclusions
 - Results and discussion were **published on Medium: [What Key Factors Shape Bank Account Access?](https://medium.com/@wangcy0317/what-key-factors-shape-bank-account-access-dd94b6a4f6f2)**
 

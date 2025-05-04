@@ -5,8 +5,23 @@ Based on economic data and bank account access data in the Global Findex Databas
 
 ## File Description
 - A Descriptive Jupyter Notebook.
-- data.csv: Detailed Listings data for bank account access analysis.
-- requirements.txt : libraries installed to run this notebook.
+- `economic_data.csv`: economic indicators data downloaded from World Bank.
+- `bank_account_access_data.xlsx`: bank account ownership data downloaded from Globa Findex Database 2021.
+- `data.csv`: Combined economic data and bank ownership data for bank account access analysis and modeling.
+- `requirements.txt`: libraries installed to run this notebook.
+## Libraries Used
+### The following libraries are required to run this program
+- matplotlib==3.10.1 
+- numpy==2.2.5 
+- pandas==2.2.3 
+- pandas_datareader==0.10.0 
+- pycountry==24.6.1 
+- scikit_learn==1.6.1 
+- seaborn==0.13.2 
+- shap==0.47.1 
+- xgboost==3.0.0
+
+To install the libraries, go to the terminal and run the following command: `pip install -r requirements.txt`
 
 ## Project Content
 - [Business Understanding](#business-understanding)

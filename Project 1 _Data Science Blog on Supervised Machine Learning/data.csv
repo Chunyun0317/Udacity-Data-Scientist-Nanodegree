@@ -1,0 +1,118 @@
+country,code,GDP_per_capita,inflation,region,income_group,account_total (%),account_female (%),account_male (%),account_primary_edu (%),account_secondary_edu (%),gender_gap,education_gap,high_account_access
+Afghanistan,AFG,356.4962141,5.133203408,South Asia,Low income,9,4,14,5,23,10,18,0
+Guinea,GIN,1244.965505,12.59728826,Sub-Saharan Africa,Low income,30,24,36,22,55,12,33,0
+Mali,MLI,862.4674001,3.925602831,Sub-Saharan Africa,Low income,43,41,45,38,65,4,27,0
+Burkina Faso,BFA,895.5352884,3.653532872,Sub-Saharan Africa,Low income,36,30,42,31,55,12,24,0
+Malawi,MWI,617.4475208,9.330144108,Sub-Saharan Africa,Low income,42,38,47,33,70,9,37,0
+Liberia,LBR,667.9661051,7.815593859,Sub-Saharan Africa,Low income,51,44,59,42,70,15,28,0
+Sierra Leone,SLE,885.1842707,11.87395888,Sub-Saharan Africa,Low income,28,24,33,20,44,9,24,0
+Mozambique,MOZ,509.9078295,6.40847653,Sub-Saharan Africa,Low income,49,38,60,39,84,22,45,0
+Togo,TGO,939.6133738,4.186215065,Sub-Saharan Africa,Low income,49,44,55,42,61,11,19,0
+Uganda,UGA,882.7917175,2.204572048,Sub-Saharan Africa,Low income,65,65,66,54,76,1,22,0
+Mongolia,MNG,4517.61578,7.352812434,East Asia & Pacific,Lower middle income,98,98,97,96,99,-1,3,1
+Lao PDR,LAO,2526.05105,3.755620367,East Asia & Pacific,Lower middle income,37,37,36,28,57,-1,29,0
+"Iran, Islamic Rep.",IRN,4334.792686,43.38901627,Middle East & North Africa,Lower middle income,89,85,94,83,92,9,9,1
+Indonesia,IDN,4287.17314,1.560129905,East Asia & Pacific,Lower middle income,51,52,51,40,61,-1,21,0
+India,IND,2239.613844,5.131407472,South Asia,Lower middle income,77,77,77,75,81,0,6,1
+Honduras,HND,2735.147515,4.480879634,Latin America & Caribbean,Lower middle income,37,28,48,31,50,20,19,0
+Kenya,KEN,2061.356221,6.107936037,Sub-Saharan Africa,Lower middle income,79,75,83,61,88,8,27,1
+Zambia,ZMB,1127.160779,22.02076762,Sub-Saharan Africa,Lower middle income,48,44,52,33,67,8,34,0
+Nicaragua,NIC,2128.609806,4.928413969,Latin America & Caribbean,Lower middle income,26,21,30,18,37,9,19,0
+Nepal,NPL,1252.750767,4.149680034,South Asia,Lower middle income,54,49,58,51,63,9,12,0
+Nigeria,NGA,2017.274865,16.95284572,Sub-Saharan Africa,Lower middle income,45,34,55,25,65,21,40,0
+Pakistan,PAK,1455.319224,9.496210561,South Asia,Lower middle income,20,13,28,15,35,15,20,0
+Philippines,PHL,3484.385939,3.927180221,East Asia & Pacific,Lower middle income,51,47,55,32,61,8,29,0
+Senegal,SEN,1598.10677,2.180322781,Sub-Saharan Africa,Lower middle income,55,50,62,51,70,12,19,0
+Sri Lanka,LKA,3999.337647,7.014780712,South Asia,Lower middle income,89,89,89,76,92,0,16,1
+Tanzania,TZA,1159.856567,3.690919588,Sub-Saharan Africa,Lower middle income,52,46,59,46,73,13,27,0
+Tunisia,TUN,3885.281665,5.706350208,Middle East & North Africa,Lower middle income,36,28,45,29,43,17,14,0
+Ukraine,UKR,4775.945801,9.363139177,Europe & Central Asia,Lower middle income,83,80,87,44,85,7,41,1
+Uzbekistan,UZB,2258.519641,10.84923975,Europe & Central Asia,Lower middle income,44,38,50,23,51,12,28,0
+West Bank and Gaza,PSE,3678.635657,1.237481028,Middle East & North Africa,Lower middle income,33,25,41,30,34,16,4,0
+Morocco,MAR,3785.936279,1.40195884,Middle East & North Africa,Lower middle income,44,32,55,36,57,23,21,0
+Ghana,GHA,2445.500818,9.971088675,Sub-Saharan Africa,Lower middle income,68,62,74,51,80,12,29,0
+Kyrgyz Republic,KGZ,1349.997307,11.90503982,Europe & Central Asia,Lower middle income,45,43,46,28,48,3,20,0
+Zimbabwe,ZWE,1724.387731,98.54610509,Sub-Saharan Africa,Lower middle income,59,53,65,47,67,12,20,0
+Cote d'Ivoire,CIV,2455.981276,4.091951897,Sub-Saharan Africa,Lower middle income,50,37,64,43,69,27,26,0
+"Congo, Rep.",COG,2516.162551,1.715642755,Sub-Saharan Africa,Lower middle income,47,43,50,30,57,7,27,0
+Bangladesh,BGD,2482.849178,5.545654308,South Asia,Lower middle income,52,43,62,46,56,19,10,0
+Bolivia,BOL,3384.844865,0.737383721,Latin America & Caribbean,Lower middle income,68,63,74,55,75,11,20,0
+Cambodia,KHM,2167.403242,2.920734776,East Asia & Pacific,Lower middle income,33,32,34,28,61,2,33,0
+"Egypt, Arab Rep.",EGY,3827.354154,5.214049405,Middle East & North Africa,Lower middle income,27,24,30,25,30,6,5,0
+Cameroon,CMR,1672.326573,2.271857625,Sub-Saharan Africa,Lower middle income,51,49,54,37,67,5,30,0
+Benin,BEN,1318.834978,1.733539627,Sub-Saharan Africa,Lower middle income,48,39,58,41,63,19,22,0
+Algeria,DZA,4160.559267,7.226063074,Middle East & North Africa,Lower middle income,44,31,56,38,46,25,8,0
+El Salvador,SLV,4642.607431,3.466925853,Latin America & Caribbean,Lower middle income,35,29,44,27,50,15,23,0
+Bosnia and Herzegovina,BIH,7295.343824,1.981639006,Europe & Central Asia,Upper middle income,79,70,88,57,90,18,33,1
+Costa Rica,CRI,12838.11854,1.726477551,Latin America & Caribbean,Upper middle income,68,61,76,51,79,15,28,0
+Malaysia,MYS,10903.11164,2.477102415,East Asia & Pacific,Upper middle income,88,87,89,71,92,2,21,1
+Brazil,BRA,7972.53665,8.301659756,Latin America & Caribbean,Upper middle income,84,80,87,81,85,7,4,1
+South Africa,ZAF,6843.399419,4.618745449,Sub-Saharan Africa,Upper middle income,85,86,84,76,88,-2,12,1
+Mauritius,MUS,9068.973002,4.028528882,Sub-Saharan Africa,Upper middle income,90,89,91,85,93,2,8,1
+Peru,PER,6826.972007,4.271663815,Latin America & Caribbean,Upper middle income,57,53,62,40,61,9,21,0
+Panama,PAN,15509.80691,1.630703373,Latin America & Caribbean,Upper middle income,44,43,46,31,51,3,20,0
+China,CHN,12617.5051,0.981015136,East Asia & Pacific,Upper middle income,88,87,89,83,97,2,14,1
+Namibia,NAM,4412.835569,3.616905301,Sub-Saharan Africa,Upper middle income,71,69,73,61,78,4,17,0
+Romania,ROU,14986.78549,5.052328761,Europe & Central Asia,Upper middle income,69,65,72,37,76,7,39,0
+Paraguay,PRY,5976.931798,4.787983101,Latin America & Caribbean,Upper middle income,54,55,53,43,61,-2,18,0
+North Macedonia,MKD,7620.80297,3.230749121,Europe & Central Asia,Upper middle income,85,79,90,73,91,11,18,1
+Serbia,SRB,9680.527981,4.085102853,Europe & Central Asia,Upper middle income,89,89,88,80,94,-1,14,1
+Bulgaria,BGR,12274.0776,3.297744353,Europe & Central Asia,Upper middle income,83,84,83,70,88,-1,18,1
+Moldova,MDA,5274.605822,5.10641129,Europe & Central Asia,Upper middle income,64,62,65,39,66,3,27,0
+Colombia,COL,6222.621644,3.495057574,Latin America & Caribbean,Upper middle income,59,56,63,48,64,7,16,0
+Lebanon,LBN,4045.373911,154.756096,Middle East & North Africa,Upper middle income,20,16,24,15,23,8,8,0
+Russian Federation,RUS,12521.52246,6.69445892,Europe & Central Asia,Upper middle income,89,90,89,82,90,-1,8,1
+Armenia,ARM,4685.179971,7.184836294,Europe & Central Asia,Upper middle income,55,52,59,44,56,7,12,0
+Iraq,IRQ,4868.494311,6.041864891,Middle East & North Africa,Upper middle income,18,14,22,15,22,8,7,0
+Albania,ALB,6413.283286,2.041471631,Europe & Central Asia,Upper middle income,44,45,42,34,56,-3,22,0
+Turkiye,TUR,9743.212778,19.59649269,Europe & Central Asia,Upper middle income,74,62,85,61,81,23,20,0
+Dominican Republic,DOM,8472.47982,8.24300348,Latin America & Caribbean,Upper middle income,51,48,53,39,64,5,25,0
+Jamaica,JAM,5165.33781,5.862782428,Latin America & Caribbean,Upper middle income,73,71,75,59,82,4,23,0
+Georgia,GEO,5083.606955,9.566914338,Europe & Central Asia,Upper middle income,70,70,70,41,74,0,33,0
+Kazakhstan,KAZ,9983.601036,8.04147134,Europe & Central Asia,Upper middle income,81,83,78,61,84,-5,23,1
+Thailand,THA,7058.0695,1.230395413,East Asia & Pacific,Upper middle income,95,92,98,93,97,6,4,1
+Gabon,GAB,8181.409141,1.086907465,Sub-Saharan Africa,Upper middle income,66,61,71,52,75,10,23,0
+Kosovo,XKX,5270.426702,3.353691392,Europe & Central Asia,Upper middle income,58,47,68,46,72,21,26,0
+Jordan,JOR,4183.499983,1.346093772,Middle East & North Africa,Upper middle income,47,34,58,38,50,24,12,0
+Ecuador,ECU,6075.802657,0.133251386,Latin America & Caribbean,Upper middle income,64,57,70,60,66,13,6,0
+Uruguay,URY,17888.21151,7.747914023,High income,High income,74,75,72,65,82,-3,17,0
+United States,USA,71318.30736,4.697858864,High income,High income,94,96,93,57,96,-3,39,1
+United Kingdom,GBR,46896.86624,2.518371096,High income,High income,99,99,99,98,99,0,1,1
+Saudi Arabia,SAU,28396.08642,3.063289889,High income,High income,74,63,81,76,74,18,-2,0
+Switzerland,CHE,93446.43445,0.581814168,High income,High income,99,99,100,98,99,1,1,1
+Sweden,SWE,61174.96802,2.163197364,High income,High income,99,100,99,100,99,-1,-1,1
+Slovak Republic,SVK,22138.19498,3.149606299,High income,High income,95,94,97,70,96,3,26,1
+Australia,AUS,60607.77886,2.863910422,High income,High income,99,100,98,86,99,-2,13,1
+Slovenia,SVN,29187.36938,1.917065061,High income,High income,99,98,100,96,99,2,3,1
+Austria,AUT,53648.71907,2.766666667,High income,High income,99,100,99,100,99,-1,-1,1
+Belgium,BEL,51655.78833,2.440248511,High income,High income,99,98,99,93,99,1,6,1
+Spain,ESP,30817.68286,3.09313512,High income,High income,98,97,99,96,98,2,2,1
+United Arab Emirates,ARE,43360.0211,0.179935336,High income,High income,85,86,85,75,86,-1,11,1
+Singapore,SGP,79601.41296,2.30485959,High income,High income,97,96,98,92,98,2,6,1
+France,FRA,43725.09995,1.64233141,High income,High income,99,100,98,95,99,-2,4,1
+Poland,POL,18635.51049,5.055027047,High income,High income,95,95,95,71,96,0,25,1
+Germany,DEU,52265.65416,3.066666667,High income,High income,99,100,99,100,99,-1,-1,1
+Estonia,EST,27953.76702,4.653166738,High income,High income,99,99,99,98,99,0,1,1
+Greece,GRC,20654.7002,1.22382501,High income,High income,94,93,96,91,95,3,4,1
+"Hong Kong SAR, China",HKG,49770.56424,1.568758344,High income,High income,97,98,97,96,98,-1,2,1
+Hungary,HUN,18755.10235,5.110965344,High income,High income,88,86,89,71,92,3,21,1
+Iceland,ISL,69325.90783,4.444239702,High income,High income,100,100,100,100,100,0,0,1
+Denmark,DNK,69727.98737,1.85304544,High income,High income,100,100,100,100,100,0,0,1
+Ireland,IRL,105561.1375,2.340341134,High income,High income,99,99,99,100,99,0,-1,1
+Israel,ISR,52255.61591,1.510200477,High income,High income,92,91,93,62,94,2,32,1
+Italy,ITA,36852.54254,1.873783258,High income,High income,97,97,97,97,97,0,0,1
+Japan,JPN,40058.53733,-0.233352779,High income,High income,98,98,98,94,99,0,5,1
+Czechia,CZE,27696.46195,3.839844915,High income,High income,94,93,96,86,96,3,10,1
+"Korea, Rep.",KOR,35125.5225,2.498333333,High income,High income,98,98,98,95,99,0,4,1
+Cyprus,CYP,33734.29297,2.446088672,High income,High income,93,92,93,87,94,1,7,1
+Croatia,HRV,17789.93047,2.554506996,High income,High income,91,89,93,80,96,4,16,1
+Latvia,LVA,20262.84339,3.275829374,High income,High income,96,97,95,90,98,-2,8,1
+Lithuania,LTU,23934.72849,4.683544209,High income,High income,93,90,96,74,95,6,21,1
+Malta,MLT,38027.38017,1.497892179,High income,High income,96,95,97,93,96,2,3,1
+Chile,CHL,16216.57065,4.524568383,High income,High income,87,86,87,68,93,1,25,1
+Finland,FIN,53099.13514,2.194574323,High income,High income,99,99,100,98,100,1,2,1
+Netherlands,NLD,60141.98809,2.675720088,High income,High income,99,99,100,100,99,1,-1,1
+New Zealand,NZL,49624.18167,3.941120608,High income,High income,98,99,98,96,99,-1,3,1
+Norway,NOR,93072.89251,3.483880553,High income,High income,99,100,98,97,100,-2,3,1
+Portugal,PRT,24711.45101,1.265657191,High income,High income,92,90,95,89,94,5,5,1
+Canada,CAN,52496.84417,3.395193185,High income,High income,99,99,99,90,99,0,9,1
